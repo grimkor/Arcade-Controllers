@@ -1,6 +1,6 @@
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/Arcade-Controllers/master/playergreen.png) center no-repeat;
+    background: url(https://raw.githubusercontent.com/grimkor/Arcade-Controllers/master/playergreen.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
@@ -179,7 +179,7 @@
     height: 221px;
     top: 198px;
     left: 194px;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/Arcade-Controllers/master/demo/Stick/player2.png)
+    background: url(https://raw.githubusercontent.com/grimkor/Arcade-Controllers/master/demo/Stick/player2.png)
 }
 
 .fight-stick .fstick.up {

@@ -1,6 +1,6 @@
 /*BEGIN Fight Stick Controller Styling*/
 .controller.custom {
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/Arcade-Controllers/master/DBFZ/base.png) center no-repeat;
+    background: url(https://raw.githubusercontent.com/grimkor/Arcade-Controllers/master/DBFZ/base.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
@@ -179,7 +179,7 @@
     height: 221px;
     top: 198px;
     left: 194px;
-    background: url(https://raw.githubusercontent.com/VideoGameRoulette/Arcade-Controllers/master/DBFZ/DBFZ.png)
+    background: url(https://raw.githubusercontent.com/grimkor/Arcade-Controllers/master/DBFZ/DBFZ.png)
 }
 
 .custom .fstick.up {
